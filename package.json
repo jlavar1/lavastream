@@ -1,0 +1,10 @@
+{
+  "name": "lavastream_web",
+  "version": "1.0.0",
+  "description": "Promotional website for LavaStream Propulsion",
+  "main": "index.js",
+  "repository": "git@github.com:jlavar1/lavastream.git",
+  "author": "Joshua Lavarine <joshua@lavarine.com>",
+  "license": "MIT",
+  "private": false
+}
